@@ -8,7 +8,6 @@ I'm glad to share my first project in **Java**, and actually, my **first project
 ## 🎯 Purpose
 
 The main purpose of this project is to practice **Programming Logic** with **Object-Oriented Programming (OOP)**.  
-
 For that, I applied the following concepts:
 
 - 🖥️ **User Input:**  
@@ -17,7 +16,7 @@ For that, I applied the following concepts:
 - 🔀 **Control Flow Statements:**  
   - `if/else` statements  
   - `switch/case` conditions
-  - 
+
 - 🏗️ **OOP Principles:**  
   - Getters and Setters  
   - Class-based structure for handling **Bank Account** processes
@@ -39,7 +38,6 @@ For that, I applied the following concepts:
 - Withdraw
 - Pay Monthly Fee
 
-# 🏦 MiniBankAccountSystem
 
 🇧🇷 | Versão em Português
 
@@ -49,7 +47,6 @@ Tenho o prazer de compartilhar meu primeiro projeto em **Java** e, na verdade, o
 ## 🎯 Propósito
 
 O principal objetivo deste projeto é praticar **Lógica de Programação** utilizando **Programação Orientada a Objetos (POO)**.  
-
 Para isso, apliquei os seguintes conceitos:
 
 - 🖥️ **Entrada de Dados:**  
