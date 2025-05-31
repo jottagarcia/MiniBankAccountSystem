@@ -39,5 +39,46 @@ For that, I applied the following concepts:
 - Withdraw
 - Pay Monthly Fee
 
+# 🏦 MiniBankAccountSystem
+
+🇧🇷 | Versão em Português
+
+Olá, Mundo!  
+Tenho o prazer de compartilhar meu primeiro projeto em **Java** e, na verdade, o **primeiro projeto da minha vida** como desenvolvedor.
+
+## 🎯 Propósito
+
+O principal objetivo deste projeto é praticar **Lógica de Programação** utilizando **Programação Orientada a Objetos (POO)**.  
+
+Para isso, apliquei os seguintes conceitos:
+
+- 🖥️ **Entrada de Dados:**  
+  Utilização da classe `Scanner` para permitir que o usuário interaja com a aplicação.
+
+- 🔀 **Estruturas de Controle:**  
+  - Condicionais `if/else`  
+  - Estruturas `switch/case`
+
+- 🏗️ **Princípios de POO:**  
+  - Getters e Setters  
+  - Organização do código em classes, simulando processos de uma **Conta Bancária**
+
+## 📄 Estrutura da Classe Conta Bancária
+
+### ✅ Atributos:
+
+- `ID da Conta`
+- `Tipo da Conta`
+- `Dono da Conta`
+- `Saldo`
+- `Status da Conta`
+
+### ⚙️ Operações Básicas:
+
+- Abrir Conta
+- Fechar Conta
+- Depositar
+- Sacar
+- Pagar Taxa Mensal
 
 
